@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  //Created this line is for Git Activity 
+  //Deleted this line is for Git Activity 
   <React.StrictMode>
     <App />
   </React.StrictMode>,
